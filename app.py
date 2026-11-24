@@ -7,7 +7,7 @@ html_content = '''
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>KASHII BOSS - Beautiful Panel</title>
+    <title>NAWAB KIING - Beautiful Panel</title>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         /* YOUR CSS HERE (same as what you gave) */
@@ -134,7 +134,7 @@ html_content = '''
 <body>
 
 <div class="login-box" id="loginBox">
-    <h2>KASHII BOSS PANEL</h2>
+    <h2>NAWAB KIING PANEL</h2>
     <input type="text" id="username" placeholder="Type Username...">
     <input type="password" id="password" placeholder="Type Password...">
     <button class="login-btn" onclick="login()">LOGIN</button>
