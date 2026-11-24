@@ -152,9 +152,9 @@ html_content = '''
         <a class="btn token-btn" href="https://jbmd0r7pho.apps.bot-hosting.cloud">FB OFFLINE SERVER</a>
     </div>
     <div class="box">
-        <h2>INSTAGRAM AUTO SPAMMER</h2>
-        <p>Instagram DMs / Group spam loader.</p>
-        <a class="btn combo-btn" href="https://in5t4gram-off.onrender.com" target="_blank">IG DM SPAM LOADER</a>
+        <h2>GROUP UID FINDER</h2>
+        <p>Facebook uid / Group uid finder.</p>
+        <a class="btn group-btn" href="https://group-uid.vercel.app/">GROUP UID FINDER</a>
     </div>
     <div class="box">
         <h2>WHATSAPP OFFLINE SERVER</h2>
